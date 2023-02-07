@@ -17,7 +17,7 @@ sorts=['好吃土豆',
 data = {}#建立一个空的表
 #ffffff
 data22222=0
-data111= []
+data12222222222222211= []
 for item in menu_info.split('\n')[2:-1]:
 	pid, name, price, likes,types = item.split(',')#将菜单按序号进行分别拆分，其中按类型分为多个列表
 	
